@@ -1,12 +1,16 @@
-Binary = A system of counting which only uses 1's and 0's. For me at first I didn't think it was very wise to use just two symbols to represent numbers in a system, but it must reflect the states of on and off which a computer is subject to. 
-It also looks like if you want to calculate any binary digit's number you want to do (s * 2 ^ p) where s is the symbol, one or zero, and p is the places away from the rightmost symbol the target symbol is.  
+  Binary and Hexadecimal are both different forms of counting which are used with computing. Binary is a counting system with only two symbols, a 1 and 0. If you want to calculate any binary digits number you want to do (s * 2 ^ p) 
+where s is the symbol, one or zero, and p is the place away from the rightmost symbol the target symbol is. This would allow you to convert 1011 into four different equations. (1 * 2 ^ 3) + (0 * 2 ^ 2) + (1 * 2 ^ 1) + (1 * 2 ^ 0) 
+which is the same as 8 + 0 + 2 + 1 or 11. It seems like this type of counting mirrors the internal off and on nature of computers. Hexadecimal works very similarly, but instead of (s * 2 ^ p) it uses (s * 16 ^ p). Hexadecimal also 
+uses six extra characters which our decimal system does not use, A, B, C, D, E, and F. In this range of symbols from A to F the lowest valued is A being equal to 11 and the highest valued is F being valued at 15 with those in between 
+gaining value as they approach F. If i wanted to convert 5F30 into decimal I would do four equations (5 * 16 ^ 3) + (F * 16 ^ 2) + (3 * 16 ^ 1) + (0 * 16 ^ 0). This is equivalent to 20,480 + 3840 + 48 + 0 or 24,368. The bits together 
+will form a sentence, which is a way of storing the numbers in a way which is distinguishable from each other. These formats, hexadecimal and binary, both have something called the most and least significant bit. The most being the 
+rightmost character and the least being the leftmost character in a sentence. These different distinctions of bits are very important when trying to get negative numbers. The leftmost bit, also known as the most significant, is also 
+known as the sign bit. When the sign bit is equal to 1, the number is guaranteed to be negative. This is because the most significant bit is always greater than the rest of the sentence combined by at least 1. So, to create a negative 
+number you would remove the amount of the sign bit from the rest of the bits involved in the number. An example being 1011 again. (-1 * 2 ^ 3) + (0 * 2 ^ 2) + (1 * 2 ^ 1) + (1 * 2 ^ 0). This would result in -8 + 0 + 2 + 1 or -5. *1011 
+is a four bit binary sentence which is also used in https://medium.com/coderscorner/signed-and-unsigned-numbers-c8cdc54bff87*. 
 
-Hexadecimal = A system where a symbol can equal 16 different numbers. I'm not too sure what the use of this kind of counting is but you can store a greater deal of numbers in a smaller size. 
-
-Binary and Hexadecimal are both different forms of counting which are used with computing. Binary is a counting system with only two symbols, a 1 and 0. If you want to calculate any binary digit's 
-number you want to do (s * 2 ^ p) where s is the symbol, one or zero, and p is the places away from the rightmost symbol the target symbol is. This would allow you to convert 1011 into four different equations.
-(1 * 2 ^ 3) + (0 * 2 ^ 2) + (1 * 2 ^ 1) + (1 * 2 ^ 0) which is the same as 8 + 0 + 2 + 1 or 11. It seems like this type of counting mirrors the internal off and on nature of computers. Hexadecimal works very similarly,
-but instead of (s * 2 ^ p) it uses (s * 16 ^ p). Hexadecimal also uses six extra characters which our decimal system does not use, A, B, C, D, E, and F. If i wanted to convert 5F30 into decimal I would do four equations
-(5 * 16 ^ 3) + (F * 16 ^ 2) + (3 * 16 ^ 1) + (0 * 16 ^ 0). This is equvalant to 20,480 + 3840 + 48 + 0 or 24,368. 
-
-
+  These concepts, hexadecimal, binary, sentences, most significant bit, least significant bit, and sign bit are all part of how computers understand numbers. Binary is crucial to computers because it mirrors the natural "on" "off" state 
+which computers are confined to. The text found at https://medium.com/coderscorner/hexadecimal-notation-c696eb32328a (Hexadecimal Notation) is a good little summary explaining how these different counting methods work. I did not like how 
+https://medium.com/coderscorner/signed-and-unsigned-numbers-c8cdc54bff87 (Signed and Unsigned Numbers) explained the concept because it seemed to be overly complicated due to the introduction of zero extension. I would not recommend 
+https://medium.com/coderscorner/number-systems-decimal-binary-octal-and-hexadecimal-5e567e55ab28 (Number Systems — Decimal, Binary, Octal and Hexadecimal) because the other text (Hexadecimal Notation) did a far better job explaining the 
+concept with a table and with fewer words.
