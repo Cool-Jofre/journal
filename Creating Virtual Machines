@@ -1,0 +1,10 @@
+1.	A general explanation of what you did in this lab (50-100 words).
+  a.	I downloaded the premade Windows VM from the “CYBER-SHARE” document and used VMware to run the virtual machine. For the Ubuntu VM, I downloaded the .iso 
+      file from the Ubuntu website for the Ubuntu VM. I walked through the VMware guide to create a VM based off the .iso file. I attempted to access the student 
+      VM on viewportal.champlain.edu.
+  2.	At least 2 terms regarding virtual machines.
+a.	Virtualization – Running a system on a system using virtualization software. 
+  b.	.iso – An archival file which is used to store an identical copy of data found on a disk. 
+3.	At least 2 commands, functions, required tasks to complete this lab. (For example: In this lab, we used VMWare to create virtual machines. Don't use this example).
+  a.	I downloaded files off the internet, from the Ubuntu website, and used them to create virtual machines.
+  b.	I copied data from a storage device and pasted it into a different storage device. 
