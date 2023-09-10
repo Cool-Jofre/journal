@@ -1,12 +1,25 @@
-What are the types of cache in the processor and what do they do?
-Every modern processor has multiple levels of cache. Level one cache is storage found within a processor like a CPU. This cache has the advantage of being very close to the processor, making it so data stored in there can be accessed quickly for faster data retrieval. 
-Level two cache is found near the CPU and has more storage than level one cache. The only downside is that this cache is further away from the processor, making data retrieval take more time.
-As the level of cache increases, the storage for the cache will increase. Although, the speed to access the cache will decrease as the levels go up.
+-------------------------------------------What are the types of cache in the processor and what do they do?------------------------------------------------------
 
-What is the difference between a CPU and a GPU? How do they process information differently?
-Due to GPUs having hundreds of smaller processors when compared to CPUs, GPUs can handle small repetitive tasks more efficiently than CPUs can. Though a CPU can do most of the work by itself, a GPU is a good aid tool to support the CPU run the computer. 
+	Every modern processor has multiple levels of cache. Level one cache is storage found within a processor like a CPU. This cache has the advantage of being very close to 
+the processor, making it so data stored in there can be accessed quickly for faster data retrieval. 
 
-What are three different things used to cool processors?
-Liquid cooling is a popular way to cool a processor. It circulates fluid through tubes so heat can be transmitted over the liquid to heatsinks far away from the CPU.
-	Fan cooling is a common way for processors to cool. This method of cooling is done by having fans attached to a heatsink so that heat is quicky radiated into the environment.
-	Vapor cooling is an expensive way of cooling a processor. It uses the same mechanics of a refrigerator to cool down the CPU. This method uses a compressor to turn gas into a liquid. This liquid is used to absorb some of the heat from the CPU before being turned back into a gas. This cycle is done repeatedly to cool the computer. 
+	Level two cache is found near the CPU and has more storage than level one cache. The only downside is that this cache is further away from the processor, 
+making data retrieval take more time.
+
+	As the level of cache increases, the storage for the cache will increase. Although, the speed to access the cache will decrease as the levels go up.
+
+
+---------------------------------------------What is the difference between a CPU and a GPU? How do they process information differently?-----------------------------
+
+	Due to GPUs having hundreds of smaller processors when compared to CPUs, GPUs can handle small repetitive tasks more efficiently than CPUs can. Though a 
+CPU can do most of the work by itself, a GPU is a good aid tool to support the CPU run the computer. 
+
+------------------------------------------------What are three different things used to cool processors?-------------------------------------------------------------
+
+	Liquid cooling is a popular way to cool a processor. It circulates fluid through tubes so heat can be transmitted over the liquid to heatsinks far away from the CPU.
+
+	Fan cooling is a common way for processors to cool. This method of cooling is done by having fans attached to a heatsink so that heat is quicky radiated into 
+the environment.
+
+	Vapor cooling is an expensive way of cooling a processor. It uses the same mechanics of a refrigerator to cool down the CPU. This method uses a compressor to 
+turn gas into a liquid. This liquid is used to absorb some of the heat from the CPU before being turned back into a gas. This cycle is done repeatedly to cool the computer. 
