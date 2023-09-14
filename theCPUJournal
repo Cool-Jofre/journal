@@ -1,0 +1,8 @@
+During the process of creating the commands to move data around the registrars I was a little daunted by the complexity of the program. Though, this lab showed that 
+computers run on the most basic ideas of adding, subtracting, moving, storing, and comparing. 
+
+The flags were a little confusing since I didn’t notice them for a while and had to have the little checkbox pointed out to me. I have no idea what the “Zero status flag” 
+means but it may be referring to how subtracting one from the other gives nothing in the end. 
+
+Once I got the hang of how these commands worked, it felt a lot like Python in the way it was structured and the goals that I had for data movement and modifications. Though 
+it would make since Python is a higher level language which is turned back down into this lower level language. 
