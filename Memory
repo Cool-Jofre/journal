@@ -1,0 +1,12 @@
+The Memory chapter of the book pertains to forensics work a great deal. All the storage medians and how they work have broadened my view on what a criminal could do to hide what
+they do.
+
+Swap files seem like a strong source of evidence due to the non-volatility. This would make it so best practice of unplugging the system work well because none of that 
+data would be lost when shut down. This swap file space should also be slower to change since it’s further away and inherently slower than RAM. 
+
+I used to have an old laptop which has Ubuntu on it, and I was able to have it hibernate. I believe it worked by shutting down everything and storing the state of the computer 
+onto the storage device, like an HDD. Was that all done by using swap files and why do currently computers not do that? It seems like a valuable long-term way to keep your 
+desktop and use little power.
+
+My current laptop can only go into sleep mode, which stores the computer state into memory, which is RAM. This would mean that the computer is still on during this time to 
+keep the RAM working, using power, though just a little I assume. 
