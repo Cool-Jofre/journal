@@ -1,0 +1,21 @@
+Give 2 examples of when it might be helpful to know a processor's maximum clock speed and the amount of addressable RAM.
+ If I were to create a computer, I would want to make sure that the CPU’s clock speed is passable and if the CPU can handle the amount of memory I intend to use. This is to 
+ avoid having a CPU that supports up to 16 GB of memory while having 32 GB
+ On the field as a Digital Forensics specialist, knowing how much memory there is could aid in determining if a system which cannot be taken down is worth investigating. 
+ The normal procedure is to unplug the computer to prevent data loss, but this makes it so all the data on the RAM is lost.
+
+How might it be helpful to use a tool like the CPU stress test we used in part 2 of this lab?
+ If I was a CPU salesman it would be a good way to display how CPUs compared to each other. Showing how a program can handle stress can be a very good model for customers 
+ who cannot grasp the theoretical limits of the hardware. 
+
+In part 3 of this lab you researched a CPU from a device other than a desktop computer. What strategy might you use when purchasing these types of devices to make choices 
+about which one to purchase?
+ I chose a game console, and I can now understand why the system is so limited in its speed and graphics. For the next handheld console, I’m going to look for one which can 
+ handle a great amount of stress from games and isn’t as anti-consumer as Nintnendo. 
+
+What are the names of the processors you referenced in this lab. Some were manufactured by Intel, one was of your choosing, 
+ Intel Core i7-10710U
+ Intel Celeron Processor 7305:
+ Intel Xeon Gold 6418H
+ ARM11 Co-Processor
+ ARM9 Processor
