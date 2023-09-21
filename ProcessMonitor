@@ -1,0 +1,13 @@
+1.	Define 3 terms or concepts used in this lab:
+ a.	Thread – To aid in distributing processor time, threads are the units which are given to programs to gain time on the processor. 
+ b.	Processes – A program on the computer. Programs require resources to work.
+ c.	Parent Process – A process which has smaller processes within them. In the lab these were shown as the processes with the drop-down button next to them.
+
+2.	For each process in the main window, what does the Process Monitor display (column headers), other than the Process ID (PID) and explain what these are (you can look 
+these up in an outside resource)?
+ a.	“Process” is the name of the process currently running and aids you in finding child processes within parent processes.
+ b.	“CPU” displays the percentage of the CPU running for a certain task. 
+ c.	“Private Bytes” displays how much memory is dedicated to that program specifically. 
+ d.	“Working Set” displays the amount of data recently referenced in. 
+ e.	“Description” displays a short summary of what the process is.
+ f.	“Company Name” Displays the name of the company who developed the process. 
