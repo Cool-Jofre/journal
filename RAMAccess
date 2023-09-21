@@ -1,0 +1,15 @@
+Vol.exe seems to be able to parse through images to find certain information depending on the user’s request. I used the command imagine info which allowed me to gain 
+information about a certain image.
+
+Images seem to be a snapshot of something. Like RAM images are a snapshot of what happened at that very moment. A computer disk image is a snapshot of what happened at the 
+very moment the image was taken.
+
+Syntax are the rules around how commands are delivered. Syntax is necessary since computers are not very smart and need exact directions on how things should be done.
+
+A path is a set of directions a computer can take from the root, the very base of the computer, to a place. This is to prevent confusion on the computer’s part if you have 
+any directories with the same name.
+
+When files are zipped, the files which were zipped are now taking up less space since they’re compressed. To access a zipped file, the user must undo the compression and this 
+process is called extracting.
+
+This is when the information on the RAM is copied to the hard drive. 
