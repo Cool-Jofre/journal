@@ -1,0 +1,13 @@
+Why must sectors be used to contain data and is there a special reason why 512 bytes were chosen per sector.
+
+It looks like SSDs are in all ways just a better way to store data than HDDs except for price. The write block limitation does seem like a downside for SSDs since 
+it’s not very good for small programs. 
+
+Serial Transfer is the current transfer way which works by sending a series of bits over a single link, the older way is parallel transfer which sends many bits at 
+the same time over multiple paths. The serial architecture reminds me of a line of ants in a way. 
+
+I never understood why some people had a d-drive or an e-drive on their computer before. I’m used to the singular c-drive due to myself never partitioning any of my drives. 
+I wonder if this partitioning can be used as a quarantine like area on the hard drive which could be constantly wiped by rules. I remember hearing something like this during 
+a forensics club meeting and I should look more into it. 
+
+What would the point of having different drives be for the average person? I guess the average person could assign a different logical drive to different family members. 
