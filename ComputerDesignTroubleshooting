@@ -1,0 +1,13 @@
+1.	Post codes are a series of steps which check hardware for errors. My computer has a little screen on the motherboard and displayed the steps POST went through went 
+  conducting error checking.
+
+2.	The BIOS is the Basic Input/Output System. It is held in a chip on the motherboard with its own software loaded onto it. This is necessary since it will load the OS and 
+  has instructions to interact with input/output devices like a mouse or keyboard.
+
+3.	Thin client workstations are those which run off servers. Instead of doing things natively, it would be done offshore on a server which saves on costs for making thin 
+  clients but requires that thin client to be able to connect to the server. Thick clients are workstations which run the programs natively, allowing them to work offline. 
+  These are more expensive but are far more common than thin clients since many companies do not have a server set up for thin clients to work. 
+
+4.	Modular and non-modular PSU are a very important distinction when choosing a PSU. A non-modular has soldered cables which allows for quicker installation but can reduce 
+  overall airflow. Modular PSUs allow you to plug in cables at your own will, allowing you to not use some redundant cables. The efficiency of a PSU is also an important factor 
+  to check. A higher-grade efficiency would use less power and generate less heat which is important to the longevity of the computer. 
