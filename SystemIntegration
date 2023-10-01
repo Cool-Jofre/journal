@@ -1,0 +1,5 @@
+1.	I chose an AMD Ryzen 7, ATX sized motherboard, GeForce RTX3060, 64GB DDR4 RAM, and 1 TB of SSD. This together recommends between 500 and 599 watts. 
+2.	I had changed the ram between 4, 8, and 64 and no change to the suggested wattage was given.
+3.	I had changed the GPU to a GeForce RTX4090, and the PSU wattage had jumped to between 800 and 899 watts. 
+4.	I had changed the CPU to an Athlon 64 X2 5000+ and the wattage had gone down from the original 500-599 to 400-499
+5.	The GPU seems to impact the power usage the most.  
