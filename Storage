@@ -1,0 +1,15 @@
+1. On newegg.com I had found that the Seagate IronWolf 22TB enterprise NAS internal HDD had the highest amount of TBs out of all others. It costs 479.99 dollars. 
+
+2. On newegg.com there is a SSD which contains 30 TBs of storage. It is called the Micron 9400 30 TB Solid State Drive - Internal and this storage device costs $3,215.69 
+currently on newegg. 
+
+3. I have chosen the HP 4TB ($736.22) and the Seagate BarraCuda 4TB ($92.99)
+  a. The HP has a SAS interface which goes up to 12 GB/s which is quite fast.
+  b. The Seagate has a SATA interface with up to 6 GB/s which is also quite fast. 
+  c. The SAS interface allows for higher read and write speeds which is twice as fast as the SATA interface, which makes it very valuable to servers which need to do data 
+manipulation or data storing.
+
+4. I have chosen the WD Black 1TB HDD and WD_BLACK SN850X SSD
+  a. The interface the SSD uses is a PCI-Express 40. X4 to interface with the motherboard, while the HDD uses SATA to interface with the motherboard.
+  b. The HDD has a cache to aid in reducing congestion while the SSD does not have a cache.
+  c. The HDD costs $79.99 which is half the cost of the SSD ($159.99). This makes the HDD far more affordable to those who value storage more than read/write speeds. 
