@@ -1,0 +1,7 @@
+1. Explain how someone might use the Task Scheduler maliciously.
+a. Since Task Scheduler runs tasks when a certain condition is met. This can allow malicious programs to run during times when a person is sleeping, or when sensitive programs 
+    are running to capture images of personal information. 
+
+2. How might the Event Viewer be useful when investigating a security incident?
+a. Since each action leaves a trail in the event viewer, when something odd happens on the system it should end up recorded in the event viewer. This could give investigators
+    a way to discover sources of intrusion or what may have been damaged/stolen during a security incident. 
