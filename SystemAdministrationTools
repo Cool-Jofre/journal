@@ -1,0 +1,15 @@
+ 1. psinfo     > Provides key information about local or remote system such as hardware, OS details, and uptime.
+ 2. du         > Provides directory usage. Displays amount of directories, files, and taken storage resouces.
+ 3. hex2dec    > Converts hexadecimal numbers to decimal. 
+ 4. movefile   > Moves a file after a system restart.  
+ 5. sigcheck   > Checks to see if file contains a virus found on the www.virustotal.com database.
+ 6. pendmoves  > Checks to see if any files are pending movement, like those affected by movefile
+ 7. cacheset   > Provides the current cache size and preak size.
+ 8. strings    > Makes the file structure more readable.
+ 9. psping     > Pings with extra parameters and options.
+10. ldmdump    > Dumps an LDM database.
+11. psloglist  > Using the logs of a local or remote system, creates a text document with logs.
+12. PsGetsid   > Displays the SID of a computer.
+13. ZoomIt     > Zooms the display.
+14. RAMMap     > Provides a visual way to display the RAM and how the memory is being used.
+15. psService  > Displays service information. 
