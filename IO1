@@ -1,0 +1,17 @@
+Performance Monitor:
+  This program allows certain statistics of the computer. These activities it tracks are plotted on a line graph, and this program can be used to create reports of a computer 
+  over specified time lengths. 
+
+Interrupt Requests:
+  A signal will be sent from the I/O device to the system and request the system to stop doing anything and focus on the new request. 
+
+I/O Ports:
+  Ports which will intake or output information to external devices. Input devices are like mice and keyboards, while output devices are like speakers or monitors. 
+
+What are counters used for?
+  How the performance monitor tallies the amount of activity a certain action on the computer is having. An example of a counter is interrupts/sec, which would capture the 
+  amount of interrupts the system is experiencing every second. 
+
+What is a Data COllector Set and how might it be used?
+  This is used to collect certain information over time. It can be used to see if there’s a problem with the system since you have a baseline to compare the current system 
+  to. It can also be used to see any unusual traffic which might be communicating with aspects of the computer. 
