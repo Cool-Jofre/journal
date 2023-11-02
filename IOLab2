@@ -1,0 +1,7 @@
+iotop is a useful test since it can check current usages of I/O the system is currently handling. The tool is very user friendly for its use of the top two bars to easily display the type of work the system is doing. It can be used to see if the system can’t keep up with the demands. 
+
+ioping is a very interesting tool since it measures delay for I/O devices. This can be useful to see how much delay your disk has.
+
+iostat is used for checking the average transfer time for disks. This is useful to see which devices have lower or higher I/O. 
+
+sysbench is a way to test multiple different latencies of the system. In the lab we used to test the latency of RAM, which displayed the disparity between the speed of hard disk and RAM. 
