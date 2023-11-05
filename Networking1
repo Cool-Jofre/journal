@@ -1,0 +1,7 @@
+Since we were able to connect with servers from across the world, I would like to know how we can request information from servers from across the world. 
+
+I did some research into MAC addresses, and they seem like “burnt in” network addresses. Since this address is unchangeable without specialized software, 
+this could be useful during investigations. I wonder how I can request the MAC address of another device to see what they are.
+
+It also seems like Netstat can be used to discover unwanted connections between your system and malicious systems. I can see myself using this, or something
+more sophisicated, in the future for digital investigations on a live system. 
