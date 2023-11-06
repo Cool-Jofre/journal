@@ -1,0 +1,19 @@
+Scripting is the process of turning multiple commands into a single command.
+This would make it more efficent, and with parameters, allow the user to have
+these scripts be very applicible to many different situations.
+I had also did a little digging, and it seems like all CMD usability has been
+ported over to PowerShell, making it more usable overall since its more able
+to use third-party scripts.
+
+I booted up PowerShell on my laptop, and instictivly typed in "ls" since I an
+used to only using that command, and it worked in PowerShell. I haven't really
+tested out PowerShell much, but from what I have researched, its much more
+flexible than CMD prompt.
+
+The command, xcopy, can be super useful when moving a great deal of information
+since the File Explorer GUI can get a little buggy when moving subdirectiories
+into other locations. 
+
+I can also see myself using md and rd in scripts to create automated ways to
+move information and reduce clutter from my desktop. Since all my files have
+a patern, I could easily create an archives folder. 
