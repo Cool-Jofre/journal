@@ -1,0 +1,27 @@
+1.	How would you classify Champlain's network (for example, is it a PAN, LAN, or WAN)? Justify your answer.
+  a.	PANs are very small-scale networks. These networks are found only on and around a person in a short radius. The connection between a smartphone and watch would be a PAN. 
+      The school network has too many things with too much distance from each other to be a PAN.
+  b.	WANs are networks which span over large distances. These could be networks connected over many miles. I don’t believe that the Champlain College network covers enough 
+      territory to be considered a WAN.
+  c.	A LAN is the most appropriate for the network type of Champlain College since the other two describe networks far different from the one here. 
+
+2.	Between the OSI and TCP/IP Model, which one seems more useful for describing networks? Justify your answer.
+  a.	They both are good at describing, but it seems to me that the TCP/IP model is more focused on the transmission than on the network itself. It’s seen in how it collapses 
+      a great deal of the OSI model. 
+  b.	The OSI model is created to display the distinct parts of the network which work in junction, which would display how they won’t in conjunction with each other. 
+
+3.	Suppose Champlain College was given a Class A network ID for its network (i.e., it had 224 addresses to assign to computers).  Give one reason why this would be a good 
+    thing, and one reason why this might be a bad thing. 
+  a.	An A class network would be easy to manage since there are only 224 potential devices for the network administrators to look over. The bad thing about a class A network 
+      being used is that there are a few thousand people on campus, and if only a fraction of the people can get internet services, people would not be happy if they couldn’t 
+      connect to the network. 
+
+4.	Suppose a colleague came to you and said that they could not connect to a website. How might you use some or all of the network tools from this chapter to diagnose the 
+    problem?
+  a.	The first thing I would try would be to ping the website, another website, or another item on the network like my device from theirs. If this is not possible, then the 
+      device must have a problem with connecting to the network.
+  b.	If the device is unable to ping other items on the network, I would then try to ping localhost, which is yourself on the network. If this results in a failure, then the 
+      TCP/IP protocol isn’t functioning properly.
+  c.	If the device was able to connect to the network and ping properly, I would recommend using the tracert command with the website’s domain name as the target. There 
+      could very well be a problem with the route getting to the destination which is causing the problem. 
+  d.	If all else fails, a little restarting of the computer never hurt and would probably fix most problems. 
