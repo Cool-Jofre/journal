@@ -10,11 +10,12 @@
       a great deal of the OSI model. 
   b.	The OSI model is created to display the distinct parts of the network which work in junction, which would display how they won’t in conjunction with each other. 
 
-3.	Suppose Champlain College was given a Class A network ID for its network (i.e., it had 224 addresses to assign to computers).  Give one reason why this would be a good 
+3.	Suppose Champlain College was given a Class A network ID for its network (i.e., it had 2^24 addresses to assign to computers).  Give one reason why this would be a good 
     thing, and one reason why this might be a bad thing. 
-  a.	An A class network would be easy to manage since there are only 224 potential devices for the network administrators to look over. The bad thing about a class A network 
-      being used is that there are a few thousand people on campus, and if only a fraction of the people can get internet services, people would not be happy if they couldn’t 
-      connect to the network. 
+  a.	2^24 provides ample amount of IP addresses. It would total 16,777,216 total IP addresses, and this would provide enough for a long time. 
+  b.	The bad thing is that there will be so many different IP addresses, which could make it difficult for the administrators to manage. Scans of the network would have to 
+      scan every one of the millions of IP addresses, which could take a long time. 
+
 
 4.	Suppose a colleague came to you and said that they could not connect to a website. How might you use some or all of the network tools from this chapter to diagnose the 
     problem?
