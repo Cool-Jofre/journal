@@ -1,0 +1,34 @@
+1.	“Process Name” is the name of the process currently running.
+
+2.	“Process ID” the unique identifier for the current process.
+
+3.	“Protocol” is the type of protocol being used for connection.
+This can be either TCP or UDP.
+
+4.	“State” displays the current connection process the process is at. 
+
+5.	“Local Address” the computer the address of where the program is 
+locally from. Many of these are my given IP address on the Champlain website. 
+
+6.	“Local Port’ the port which is being used for the connection between the 
+process and the outbound connection.
+
+7.	“Remote Address” is the IP address or domain name of the device the process 
+is connected to. This is the remote host’s address. 
+
+8.	“Remote Port” is the port which the process is interacting with on the 
+remote host. 
+
+9.	“Create Time” is the first time the connection was made. This can be displayed 
+days before the first time TCPView is used. 
+
+10.	“Module Name” is often just a repeat of the “Process Name” from earlier.
+
+11.	“Sent Packets” is the amount of sent packets.
+
+12.	“Recv Packets” is the amount of received packets.
+
+13.	“Sent Bytes” is the number of bytes sent.
+
+14.	“Recv Bytes” is the number of bytes received. 
+
