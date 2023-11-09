@@ -1,0 +1,8 @@
+1. Bash scripts use the .sh extension while Python scripts use the .py extension.
+
+2. Every bash script in the lab used #!/bin/bash at the beginning.
+
+3. # is the character used to display comments in Python. These are used by the creator to help readers understand the program.
+
+4. Bash scripts are the default in the terminal emulator environment, while Python scripts are not. There are also different versions of Python, which is why Python3 
+must be chosen. 
