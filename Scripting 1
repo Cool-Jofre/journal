@@ -1,0 +1,8 @@
+Cmdlets are commands which PowerShell uses for small tasks like getting dates or listing all commands. Cmdlets are interesting 
+because their naming conventions are standardized by having a verb-noun structure like Get-Command which gets commands or Get-Filehash 
+which gets filehashes. 
+
+The extension required for a PowerShell script is a .ps1 at the end of a file. 
+
+A variable allows the writer to not need to write the same thing multiple times over. It makes it so one character or a descriptive name 
+can represent something which can change or be extremely large. 
