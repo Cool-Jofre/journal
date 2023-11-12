@@ -1,0 +1,22 @@
+1. What are 3 ways Linux is different from Windows?
+  a.A great deal of the utility Linux provides is found by using the terminal emulator. Windows does not push the user to use the command prompt like Linux does. 
+
+  b. Linux comes with a lot less fluff when compared to Windows. When I installed Windows 11 on my laptop, I was given a great deal of bloatware created by Windows. 
+  Linux operating systems usually come barebones or only with utilities which the distro of the OS need.
+
+  c. Linux projects are mostly open sourced, which is a completely different approach when compared to the proprietary Windows. Due to the open source nature, groups
+  have came together to develop distribution of Linux, while Windows only has one main distribution which evolves over time. 
+
+2. GNU stands for Gnu’s Not Unix, which is an open source operating system started in 1984. This is the precursor to Linux operating systems. 
+
+3. Linux was written to be a “complete Unix-compatible software”. This was the first line of the “Initial Announcement” found on the gnu.org website.
+
+4. A distro is a type of Linux. There are many different types which serve different people. Some like Ubuntu are meant for everyday use while others like Kali are 
+meant for more specialized uses. 
+
+5. “Dual booting” is the act of changing the boot order in your BIOS to make certain operating systems boot before others. 
+
+6. A package is compressed software. It is similar to packages in programming like Python where you get access to certain functionalities by installing it and using it. 
+
+7. “Root” is the most powerful user on the computer. They are able to do any action on the computer since they’re unrestricted. Every system needs one since many actions require 
+root privileges. 
