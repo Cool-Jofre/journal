@@ -1,0 +1,10 @@
+1. 'make' is a command used to compile program pieces into a final executable.
+
+2. Having the source code allows programs to remain opensourced. With the source code, people can make changes, develop solutions, and improve
+programs overall for the community. It also gives more freedom and safety to the users since users can find and fix issues found in the code. Often,
+responcible users will report these issues and make the wider community more safe. 
+
+3. Source code is the code which makes up a program. 
+
+4. Binary is the counting system that computers use. Binary only has two numbers, 1 and 0, which are used to count. This number system is base two.
+Computers use binary since it mirrors their internal ON/OFF nature, and binary usually is seen in forms like bytes, which are 8 bits. A bit is a 1 or 0. 
