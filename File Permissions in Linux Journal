@@ -1,0 +1,10 @@
+1. The “r” or read permission protects the contents of a file. When a user is missing the read permission, they are unable to access the contents of a file, 
+making it so the user cannot learn anything within it.
+
+2. The integrity of the file is upheld by the “w” or write permission. Only those who are given permission to write can change the contents of a file. When a 
+person without permission tries to edit a file, they will be denied the ability to.
+
+3. The “x” or execute permission makes it so certain scripts are not usable for certain users. Certain programs or scripts have the ability to create and delete 
+directories/files, which could be detrimental to the system. If a mistake is made by someone, like putting in incorrect parameters, it could be terrible since 
+they would have accidentally deleted a lot of information with only one command. By limiting the commands a user can use, it will limit the amount of mistakes which 
+are avoidable. 
