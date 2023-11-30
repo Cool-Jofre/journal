@@ -1,0 +1,6 @@
+1. Hexadecimal, or base 16, is the numerical system used for MAC addresses.
+
+2. ROM is read only, making it so it cannot be modified. Though it seems like macchanger just masks the original mac address with a new one, not replacing the old one.
+
+3. The frequency they connect to the network and at what time could also provide some details to who may be exploiting the network. If I saw a laptop made by Dell get used on the cameras, 
+but a Dell MAC address never shows up in any records, it could be seen as suspicious and a good starting point. 
