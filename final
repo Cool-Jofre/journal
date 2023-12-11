@@ -1,0 +1,86 @@
+Data Representation and Conversion	
+1. Computer data is all based in many 1’s and 0’s called binary, which mirrors the on/off nature of computer processors, and binary can be converted into more readable 
+base 10. 
+2. Most significant bit is one leftmost bit. This bit is worth all other bits plus one.
+3. Boolean Logic is the most basic logic that computers rely on, it's the ANDs ORs, NORs, and XORs.
+4. Base 16 is a counting method which has 16 unique symbols and is also known as hexadecimal. It uses 0-9 and A,B,C,D,E, and F as different digits. 
+5. 2’s complement is a method which allows a byte to be viewed as a negative number. It works by reversing all the bits in the byte and adding 1 to it. This works because 
+everything is being subtracted by the most significant bit. 
+
+Processors
+1. Processors are physical objects that manipulate data and compare data. This is done with math.
+2. Computer clocks dictate how fast a processor can calculate. Often measured in hertz.
+3. Transistors are used by CPUs to create logic, something necessary for computers to do for data manipulation. 
+4. Due to transistors creating heat whenever used, processors often require cooling devices to keep the device from overheating and damaging itself. 
+5. CPUs contain a small amount of storage called registers and caches. These are valuable since they’re located near the CPU which reduces the amount of time it takes
+to send and receive data. 
+
+Processes
+1. A process is a program which is currently being handled by the processor, and the process requires resources from the processor. 
+2. The operating system is software that regulates other pieces of software by providing and restricting access to resources the computer has. 
+3. The Process Control Block is a table the OS uses to store information on processes.
+4. “Suspended” is a state processes could be found in. This means that the OS decides to not run it.
+5. The five different states a process can find itself in are executing, waiting, blocked, suspended, and ready. 
+
+Secondary Storage
+1. Secondary storage has more storage space, is more stable, and is slower than primary storage. 
+2. The SATA interface sends information in streams, which was found to work more efficiently than PATA. 
+3. Hard drives are made from spinning platters with many tracks and sectors within the tracts. 
+4. Solid-state drives don’t use any moving parts to store data, which reduces the chances of mechanical error. This reduces the heat built as well since friction is reduced. 
+5. RAID stands for redundant array of Independent Disks and multiple types of RAID allow for data recovery during types of drive failure. 
+
+System Integration
+1. A computer consists of multiple pieces of hardware which all must be compatible with one another. 
+2. The chipset is found on the motherboard and all parts added to the computer must be compatible.
+3. Fans are a cooling device found in many different computers which pump heat from the devices to the outside environment.
+4. Motherboards come in many different sizes, Mini-ITX, Micro-ATX, ATX, and EATX. The larger the motherboard, the fewer cases the motherboard can fit in. 
+5. A common computer contains a motherboard, CPU, power supply, RAM, secondary storage, heat sinks, fans, and possibly a graphics card.
+
+System Administration Tools
+1. To remove human error from computers, tools have been employed to do a great deal of monotonous work and make it standardized. 
+2. Automation is the process of making something work without any human input. 
+3. System utilities provide people with reports on what the computer has done, allowing the human to make decisions based on information on the computer. 
+4. Maintenance is the process of gaining information from a computer and using that information to keep the system running well. 
+5. A commonly used tool is Task Manager, it gives the user the ability to both change what programs run at startup and to end tasks which are currently happening.
+
+Input / Output
+1. I/O is the way the outside word interacts with the computer, and how the computer interacts with the outside world.
+2. USB stands for Universal Serial Bus, and it's a common way for computers to interact with the outside world. 
+3. Serial means bytes of information are sent bit by bit, unlike parallel where multiple bits are sent at the same time.
+4. Interrupts are a way for I/O devices to signal to the system they have an input. 
+5. A common type of input device is a mouse or keyboard. A common output device is a monitor. 
+
+Networking
+1. Networks are necessary to connect to other devices, and these networks rely both on protocols and on physical hardware.
+2. An IP address is a special identification which is provided to devices on a network. 
+3. The OSI model is a framework which displays networks having 7 layers necessary for communication between machines.
+4. Topology refers to the layout of a network, how the switches and computers relate to each other.
+5. A DNS server is a server which stores and provides the IP addresses. When you look up something like “www.google.com” and you don’t have the IP address presaved, your 
+browser will contact a DNS server and ask for the IP.
+
+Scripting
+1. Scripting is the way of automating tasks by sequencing different actions.
+2. The Windows PowerShell is a command line shell which allows for scripting.
+3. Python is a scripting language which allows the development of programs which can automate tasks.
+4. .ps1 files are the extensions for PowerShell files.
+5. Commands are very serious since they don’t have a warning system. The del command can remove files, and a user may mistakenly delete a file without warning. 
+
+Linux
+1. Linux is a highly customizable operating system which is a key part of the digital infrastructure. 
+2. In terms of Linux operating systems, distributions are different flavors of Linux which usually cater to specific audiences. 
+3. Open source software is software where the source code is available to the public without any charge.
+4. Commercial software is software which does not have their source code available to the public.
+5. One of the most common Linux distributions seen today is Ubuntu with an estimated 40+ million users.
+
+Security
+1. Vulnerabilities are always prevalent in machines, but the damage can be reduced when bad actors break into a system.
+2. Bad actors are people who intend to harm to system and networks.
+3. Security holes, or vulnerabilities, are certain steps which allows bad actors to gain access to unintended abilities or files on a computer or network.
+4. Authentication is the process of restricting who has access to certain computers or networks. Often helps reduce the amount of bad actors. 
+5. One of the best ways to prevent security holes in your computer is to update software and the operating system. 
+Digital Forensics. 
+1. Digital forensics is a field of cybersecurity which focuses on investigating incidents and criminal cases.
+2. Evidence can be found in many different devices, this includes but is not limited to phones, computers, servers, MP3 players, and anything else which can store data.
+3. Digital forensics investigations are often used for internal investigations to see if an employee is going against company policy or the law. 
+4. Volatile data is data which will disappear when the storage device is powered off. 
+5. Wireshark is a piece of software which allows the user to analyze live networks, record live networks, or analyze recorded network traffic. 
